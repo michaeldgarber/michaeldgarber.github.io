@@ -1,0 +1,12 @@
+name: "Michael Garber"
+output_dir: "."
+navbar:
+  title: "Hi"
+  left:
+    - text: "nothing-yet"
+      href: index.html
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    highlight: textmate
