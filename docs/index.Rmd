@@ -2,4 +2,6 @@
 title: "Home page"
 ---
 
-Hello, world
+Test home page.
+
+See https://michaeldgarber.github.io/green-space-denver/
