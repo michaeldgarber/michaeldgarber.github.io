@@ -1,12 +1,16 @@
 name: "Michael Garber"
 output_dir: "."
 navbar:
-  title: "Hi"
   left:
-    - text: "nothing-yet"
+    - text: "Home"
       href: index.html
+      icon: fa-home
+    - text: "Projects"
+      href: projects.html
 output:
   html_document:
-    toc: true
+#    toc: true
     toc_float: true
     highlight: textmate
+    include:
+      after_body: footer.html

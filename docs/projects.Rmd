@@ -1,0 +1,6 @@
+---
+title: "Projects"
+---
+
+I use this website to post updates on projets I am working on, for example, https://michaeldgarber.github.io/green-space-denver/index.html
+

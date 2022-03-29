@@ -1,7 +1,6 @@
 ---
-title: "Home page"
+title: "Hi"
 ---
 
-Test home page.
+This is a work-in-progress website. So far, I mostly have information on this project: https://michaeldgarber.github.io/green-space-denver/
 
-See https://michaeldgarber.github.io/green-space-denver/
