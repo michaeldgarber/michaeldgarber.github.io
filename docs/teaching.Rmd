@@ -1,0 +1,15 @@
+---
+title: "Teaching"
+---
+
+While I was at Emory, I served as a teaching assistant for several courses on epidemiologic methods with a focus on theory and methods for causal inference. In my role as a CDC contractor, I co-led a series of workshops on using R for GIS. Please find links below to some of these teaching materials.
+
+## Advanced epidemiologic methods
+to-do
+
+## R for GIS
+to-do
+
+
+
+

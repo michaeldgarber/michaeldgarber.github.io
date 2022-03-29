@@ -5,11 +5,17 @@ navbar:
     - icon: fa-home
       href: index.html
       text: "MDG"
+    - text: "Papers"
+      href: papers.html
+    - text: "Teaching"
+      href: teaching.html
     - text: "Projects"
       href: projects.html
       menu:
         - text: "green-space-denver"
           href: https://michaeldgarber.github.io/green-space-denver/
+
+
 output:
   html_document:
 #    toc: true
