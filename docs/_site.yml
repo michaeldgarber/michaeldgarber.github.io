@@ -2,11 +2,13 @@ name: "Michael Garber"
 output_dir: "."
 navbar:
   left:
-    - text: "Home"
+    - icon: fa-home
       href: index.html
-      icon: fa-home
     - text: "Projects"
       href: projects.html
+      menu:
+        - text: "green-space-denver"
+          href: https://michaeldgarber.github.io/green-space-denver/
 output:
   html_document:
 #    toc: true
