@@ -4,6 +4,7 @@ navbar:
   left:
     - icon: fa-home
       href: index.html
+      text: "MDG"
     - text: "Projects"
       href: projects.html
       menu:
