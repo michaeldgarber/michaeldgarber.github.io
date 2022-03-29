@@ -2,13 +2,13 @@
 title: "Papers"
 ---
 <br>
-On this page, I've summarized a selection of my published research by topic. I've linked to a full text if available. A complete list of my publications can be found at my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate).
+This page summarizes a selection of my published research by topic. I've linked to a full text if available. A complete list of my publications can be found at my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate).
 <br>
 <br>
 
-#### Sampling, selection bias, and aggregated mobile-phone data
+#### Sampling, selection bias, and mobile-device data
 
-My mentors, colleagues, and I have aimed to better understand how epidemiologic concepts, including case-control sampling and conditions for absence of selection bias, can inform the valid use of data generated from mobile devices in research. I am most of proud of [this paper](https://journals.lww.com/epidem/Fulltext/2021/01000/At_risk_measure_Sampling_in_Case_Control_Studies.14.aspx), in which we extend case-control sampling principles to show how aggregated smartphone-generated data can be used to estimate the incidence rate ratio in epidemiologic studies.
+My mentors, colleagues, and I have aimed to better understand how epidemiologic concepts, including case-control sampling and conditions for no selection bias, can inform the valid use of data generated from mobile devices in research. I am most of proud of [this paper](https://journals.lww.com/epidem/Fulltext/2021/01000/At_risk_measure_Sampling_in_Case_Control_Studies.14.aspx), in which we extend case-control sampling principles to show how aggregated smartphone-generated data can be used to estimate the incidence rate ratio in epidemiologic studies.
 
 * [On selection bias in comparison measures of smartphone-generated population mobility: an illustration of no-bias conditions with a commercial data source](https://www.sciencedirect.com/science/article/abs/pii/S1047279722000370)<br>Michael Garber, Katie Labgold, Michael Kramer<br> __*Annals of Epidemiology*__. 2022.
 
