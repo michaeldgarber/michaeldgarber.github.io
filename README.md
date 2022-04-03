@@ -1,2 +1,2 @@
 # michaeldgarber.github.io
-home
+Personal web page
