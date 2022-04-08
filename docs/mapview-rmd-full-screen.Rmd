@@ -1,0 +1,76 @@
+---
+title: "Full-screen control with mapview in RMarkdown"
+date: "April 7th, 2022"
+output: 
+  html_document:
+    toc: true  
+    toc_float: true
+---
+
+# Motivation
+
+I have been a longtime fan of the [mapview](https://r-spatial.github.io/mapview/) package. I use it repeatedly during a typical R work session to quickly visualize and interact with spatial data. Most of the time, I write R using a regular R script, and if I want to see the interactive map in a larger window, I simply mouse over to the Viewer pane, and pop the map out using either the "Zoom" button or the "Show in new window" button.
+
+![](images/Screen%20Shot%202022-04-07%20at%2010.17.32%20PM.png)
+
+I have begun using RMarkdown more (e.g., to build this website). Mapview work [as expected](https://rmarkdown.rstudio.com/lesson-14.html) in RMarkdown, but I was missing the ability to pop out the interactive map in full-screen mode in the resulting html as I would during my usual R-script-based interactive session. For example, the below map cannot be viewed in full screen:
+
+```{r message=FALSE, warning=FALSE}
+library(mapview)
+library(tidyverse)
+breweries %>% 
+  mapview(layer.name = "breweries")
+```
+
+# Full-screen mode with one mapview object
+
+Fortunately, the leaflet.extras package has the [`addFullscreenControl`](https://bhaskarvk.github.io/leaflet.extras/reference/fullscreen.html) function, but applying this function to a mapview object [does not work]{.underline}, because this function expects a leaflet map:
+
+```{r message=FALSE, warning=TRUE, eval=FALSE}
+library(mapview)
+library(tidyverse)
+library(leaflet)
+library(leaflet.extras)
+breweries %>% 
+  mapview(layer.name = "breweries") %>% 
+  leaflet.extras::addFullscreenControl() #does not work
+```
+
+In this github issue ([38](https://github.com/r-spatial/mapview/issues/38)), mapview's author explains how to access the leaflet map by `@map`. To my knowledge, this `@map` call cannot be done at the end of a pipe, but we can create a mapview object first, access the leaflet map via `@map`, and then use `addFullscreenControl` function. The following code adds a full-screen control button to the top-left of the map.
+
+```{r message=FALSE, warning=FALSE}
+library(mapview)
+library(tidyverse)
+mv_breweries = breweries %>% 
+  mapview(layer.name = "breweries")
+
+mv_breweries@map %>% 
+  leaflet.extras::addFullscreenControl() #works
+```
+
+# Full-screen mode with more than one mapview object
+
+One other thing. Sometimes, it's useful to add multiple layers to the same interactive map using the `+` operator, [as described](https://r-spatial.github.io/mapview/articles/articles/mapview_02-advanced.html). To add full-screen control to mapview objects comprised of multiple mapview objects, we access the leaflet map via `@map` from the final mapview object.
+
+For example, suppose we create one mapview object to visualize breweries founded before 1800 and another for those founded after. We can then combine those two mapview objects using `+` and add full-screen control to the last one following the code above.
+
+```{r message=FALSE, warning=FALSE}
+summary(breweries$founded)
+mv_old_breweries = breweries %>% 
+  filter(founded <1800) %>% 
+  mapview(layer.name = "old breweries",
+          col.regions = "orange",
+          color = "orange")
+mv_new_breweries = breweries %>% 
+  filter(founded >=1800) %>% 
+  mapview(layer.name = "old breweries",
+          col.regions = "blue",
+          color = "blue")
+
+mv_old_and_new = mv_old_breweries+ mv_new_breweries
+
+mv_old_and_new@map %>% 
+  leaflet.extras::addFullscreenControl()
+```
+
+Again, the full-screen icon is on the top-left, allowing the user to interactively pop the map into full-screen mode.

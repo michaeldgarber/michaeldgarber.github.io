@@ -2,6 +2,16 @@
 title: "Hi"
 ---
 
-Welcome to my work-in-progress website.
+Welcome to my work-in-progress website. I am an epidemiology post-doc at Colorado State University.
 
-I am a post-doc in epidemiology at Colorado State University. I recently created this website to post project updates.
+<br>
+
+**Contact:**
+
+email: hi\@michaeldgarber.com
+
+<https://twitter.com/michaeldgarber>
+
+<https://github.com/michaeldgarber>
+
+<https://www.researchgate.net/profile/Michael-Garber>

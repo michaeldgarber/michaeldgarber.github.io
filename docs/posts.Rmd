@@ -1,0 +1,12 @@
+---
+title: "Posts"
+output: html_document
+---
+
+So far just this one: 
+
+[How to add full-screen control to mapviews in RMarkdown](mapview-rmd-full-screen.html)
+
+
+
+
