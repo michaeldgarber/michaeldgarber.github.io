@@ -1,5 +1,6 @@
 ---
 title: "Full-screen control with mapview in RMarkdown"
+author: "Michael D. Garber"
 date: "April 7th, 2022"
 output: 
   html_document:
