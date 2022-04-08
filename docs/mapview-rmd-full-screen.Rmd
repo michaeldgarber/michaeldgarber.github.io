@@ -18,6 +18,7 @@ I have lately been using RMarkdown more. Mapview work [as expected](https://rmar
 ```{r message=FALSE, warning=FALSE}
 library(mapview)
 library(tidyverse)
+breweries = mapview::breweries #bring to local env't
 breweries %>% 
   mapview(layer.name = "breweries")
 ```
@@ -39,8 +40,6 @@ breweries %>%
 In this github issue ([38](https://github.com/r-spatial/mapview/issues/38)), mapview's author explains how to access the leaflet map by `@map`. To my knowledge, this `@map` call cannot be done at the end of a pipe, but we can create a mapview object first, access the leaflet map via `@map`, and then use `addFullscreenControl` function. The following code adds a full-screen control button to the top-left of the map.
 
 ```{r message=FALSE, warning=FALSE}
-library(mapview)
-library(tidyverse)
 mv_breweries = breweries %>% 
   mapview(layer.name = "breweries")
 
@@ -63,7 +62,7 @@ mv_old_breweries = breweries %>%
           color = "orange")
 mv_new_breweries = breweries %>% 
   filter(founded >=1800) %>% 
-  mapview(layer.name = "old breweries",
+  mapview(layer.name = "new breweries",
           col.regions = "blue",
           color = "blue")
 
