@@ -3,6 +3,4 @@ title: "Posts"
 output: html_document
 ---
 
-April 2022
-
-[How to add full-screen control to mapviews in RMarkdown](mapview-rmd-full-screen.html)
+[How to add full-screen control to mapview objects in RMarkdown](mapview-rmd-full-screen.html)

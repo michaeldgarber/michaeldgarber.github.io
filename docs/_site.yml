@@ -9,8 +9,6 @@ navbar:
       href: papers.html
     - text: "Posts"
       href: posts.html
-    - text: "Teaching"
-      href: teaching.html
     - text: "Projects"
       href: projects.html
       menu:
