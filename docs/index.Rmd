@@ -10,8 +10,8 @@ Welcome to my website. I am an epidemiology post-doc at Colorado State Universit
 
 email: hi\@michaeldgarber.com
 
-<https://twitter.com/michaeldgarber>
+[twitter.com/michaeldgarber](https://twitter.com/michaeldgarber){.uri}
 
-<https://github.com/michaeldgarber>
+[github.com/michaeldgarber](https://github.com/michaeldgarber){.uri}
 
-<https://www.researchgate.net/profile/Michael-Garber>
+[researchgate.net/profile/Michael-Garber](https://www.researchgate.net/profile/Michael-Garber){.uri}
