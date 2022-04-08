@@ -37,7 +37,7 @@ breweries %>%
   leaflet.extras::addFullscreenControl() #does not work
 ```
 
-In this github issue ([38](https://github.com/r-spatial/mapview/issues/38)), mapview's author explains how to access the leaflet map component of the mapview object via `@map`. To my knowledge, this `@map` call cannot be done at the end of a [pipe](https://r4ds.had.co.nz/pipes.html), but we can create a mapview object first, access the leaflet map via `@map`, and then use leaflet.extras' `addFullscreenControl` function. The following code does this and adds a full-screen control button to the top-left of the map:
+In this github issue ([38](https://github.com/r-spatial/mapview/issues/38)), mapview's author explains how to access the leaflet map component of the mapview object via `@map`. To my knowledge, this `@map` call cannot be done at the end of a [pipe](https://r4ds.had.co.nz/pipes.html), but we can create a mapview object first, access the leaflet map via `@map`, and then use leaflet.extras' `addFullscreenControl` function. The following code does this, adding a full-screen control button to the top-left of the map:
 
 ```{r message=FALSE, warning=FALSE}
 mv_breweries = breweries %>% 
