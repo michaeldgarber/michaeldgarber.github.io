@@ -2,6 +2,6 @@
 title: "Hi"
 ---
 
-Welcome to my work-in-progress website. 
+Welcome to my work-in-progress website.
 
-
+I am a post-doc in epidemiology at Colorado State University. I recently created this website to post project updates.
