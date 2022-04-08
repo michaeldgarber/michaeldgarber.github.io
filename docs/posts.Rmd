@@ -3,10 +3,6 @@ title: "Posts"
 output: html_document
 ---
 
-So far just this one: 
+April 2022
 
 [How to add full-screen control to mapviews in RMarkdown](mapview-rmd-full-screen.html)
-
-
-
-
