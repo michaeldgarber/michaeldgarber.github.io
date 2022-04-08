@@ -14,7 +14,7 @@ I am a longtime fan of the [mapview](https://r-spatial.github.io/mapview/) packa
 
 ![](images/Screen%20Shot%202022-04-07%20at%2010.17.32%20PM.png)
 
-I have lately been using RMarkdown more. Mapview work [as expected](https://rmarkdown.rstudio.com/lesson-14.html) in RMarkdown, but I was missing the ability to pop out the interactive map from the resulting html in full-screen. For example, the below map cannot be viewed in full screen:
+I have lately been using RMarkdown more. Mapview works [as expected](https://rmarkdown.rstudio.com/lesson-14.html) in RMarkdown, but I was missing the ability to pop out the interactive map from the resulting html in full-screen. For example, the below map cannot be viewed in full screen:
 
 ```{r message=FALSE, warning=FALSE}
 library(mapview)
