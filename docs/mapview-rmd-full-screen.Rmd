@@ -29,8 +29,6 @@ breweries %>%
 Fortunately, the leaflet.extras package has the [`addFullscreenControl`](https://bhaskarvk.github.io/leaflet.extras/reference/fullscreen.html) function, but applying this function directly to a mapview object [does not work]{.underline}, because this function expects a leaflet map:
 
 ```{r message=FALSE, warning=TRUE, eval=FALSE}
-library(mapview)
-library(tidyverse)
 library(leaflet)
 library(leaflet.extras)
 breweries %>% 
@@ -38,7 +36,7 @@ breweries %>%
   leaflet.extras::addFullscreenControl() #does not work
 ```
 
-In this issue ([38](https://github.com/r-spatial/mapview/issues/38)), mapview's author explains how to access the leaflet map component of the mapview object via `@map`. To my knowledge, this `@map` call cannot be done at the end of a [pipe](https://r4ds.had.co.nz/pipes.html), but we can create a mapview object first, access the leaflet map via `@map`, and then use leaflet.extras' `addFullscreenControl` function. The following code does this, adding a full-screen control button to the top-left of the map:
+In this issue ([38](https://github.com/r-spatial/mapview/issues/38)), mapview's author explains how to access the leaflet map component of the mapview object via `@map`. To my knowledge, this `@map` cannot be called at the end of a [pipe](https://r4ds.had.co.nz/pipes.html), but we can create a mapview object first, access the leaflet map via `@map`, and then use leaflet.extras' `addFullscreenControl` function. The following code does this, adding a full-screen control button to the top-left of the map:
 
 ```{r message=FALSE, warning=FALSE}
 mv_breweries = breweries %>% 
@@ -52,7 +50,7 @@ mv_breweries@map %>%
 
 One other thing. Sometimes, it's useful to add multiple layers to the same interactive map using the `+` operator, [as described](https://r-spatial.github.io/mapview/articles/articles/mapview_02-advanced.html). To add full-screen control to mapview objects comprised of multiple mapview objects, we access the leaflet map via `@map` from the final mapview object (i.e., not each constituent mapview object).
 
-For example, suppose we create one mapview object to visualize breweries founded before 1800 and another for those founded after. We can then combine those two mapview objects using `+` and add full-screen control to the last one following the code above.
+For example, suppose we create one mapview object to visualize breweries founded before 1800 and another for those founded after. We can combine those two mapview objects using `+` and add full-screen control to the resulting mapview comprising both following the code above.
 
 ```{r message=FALSE, warning=FALSE}
 summary(breweries$founded)
@@ -62,6 +60,7 @@ mv_old_breweries = breweries %>%
     layer.name = "old breweries",
     col.regions = "orange",
     color = "orange")
+
 mv_new_breweries = breweries %>% 
   filter(founded >=1800) %>% 
   mapview(
@@ -69,7 +68,8 @@ mv_new_breweries = breweries %>%
     col.regions = "blue",
     color = "blue")
 
-mv_old_and_new = mv_old_breweries + mv_new_breweries
+mv_old_and_new = mv_old_breweries + 
+  mv_new_breweries
 
 mv_old_and_new@map %>% 
   leaflet.extras::addFullscreenControl()
