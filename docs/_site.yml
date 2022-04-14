@@ -15,7 +15,6 @@ navbar:
         - text: "green-space-denver"
           href: https://michaeldgarber.github.io/green-space-denver/
 
-
 output:
   html_document:
 #    toc: true
