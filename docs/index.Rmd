@@ -16,4 +16,4 @@ email: hi\@michaeldgarber.com
 
 [researchgate.net/profile/Michael-Garber](https://www.researchgate.net/profile/Michael-Garber){.uri}
 
-<https://orcid.org/0000-0003-0122-5634>
+[orcid.org/0000-0003-0122-5634](https://orcid.org/0000-0003-0122-5634){.uri}
