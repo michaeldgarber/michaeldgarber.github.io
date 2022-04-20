@@ -6,9 +6,15 @@ This page summarizes a selection of my published research by topic. I've linked 
 <br>
 <br>
 
+#### Effect of the built environment on bicycling
+
+My mentors and I used the generalized synthetic control method to estimate effects of large-scale bicycle infrastructure projects in Atlanta (including the Atlanta BeltLine) on bicycling.
+
+* [Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis](https://journals.lww.com/epidem/Abstract/9900/Have_paved_trails_and_protected_bike_lanes_led_to.15.aspx)<br>Michael Garber, Dana Flanders, Kari Watkins, Felipe Lobelo, Michael Kramer, Lauren McCullough<br> __*Epidemiology*__. 2022.
+
 #### Sampling, selection bias, and mobile-device data
 
-My mentors, colleagues, and I have aimed to better understand how epidemiologic concepts, including case-control sampling and conditions for no selection bias, can inform the valid use of data generated from mobile devices in research. I am most of proud of [this paper](https://journals.lww.com/epidem/Fulltext/2021/01000/At_risk_measure_Sampling_in_Case_Control_Studies.14.aspx), in which we extend case-control sampling principles to show how aggregated smartphone-generated data can be used to estimate the incidence rate ratio in epidemiologic studies.
+My collaborators and I have also aimed to better understand how epidemiologic concepts, including case-control sampling and conditions for no selection bias, can inform the valid use of data generated from mobile devices in research. I am most of proud of [this paper](https://journals.lww.com/epidem/Fulltext/2021/01000/At_risk_measure_Sampling_in_Case_Control_Studies.14.aspx), in which we extend case-control sampling principles to show how aggregated smartphone-generated data can be used to estimate the incidence rate ratio in epidemiologic studies.
 
 * [On selection bias in comparison measures of smartphone-generated population mobility: an illustration of no-bias conditions with a commercial data source](https://www.sciencedirect.com/science/article/abs/pii/S1047279722000370)<br>Michael Garber, Katie Labgold, Michael Kramer<br> __*Annals of Epidemiology*__. 2022.
 
@@ -25,7 +31,7 @@ __*Current Epidemiology Reports*__. 2019. (full text in [PubMed Central](https:/
 <br>
 
 #### Causal-inference concepts
-Informed by my teaching experience, I have written about how the potential-outcome model from epidemiology can be a useful frame for electoral questions and have commented on the utility of causal-inference tools for environmental epidemiology:
+At Emory, I was a teaching assistant in a course on methods for causal inference in observational data. Informed by this experience, I have written about how the potential-outcome model from epidemiology can be a useful frame for electoral questions and have commented on the utility of causal-inference tools for environmental epidemiology:
 
 * [A definition of the causal effect of a political party’s nominee on the U.S. general presidential election using counterfactual response types](https://www.sciencedirect.com/science/article/pii/S1047279720301733?via%3Dihub)<br>
 Michael Garber, Lindsay Collin, Dana Flanders
@@ -41,7 +47,7 @@ __*Epidemiology*__. 2019. (full text above and in [PubMed Central](https://www.n
 <br>
 
 #### Physical fitness in children
-Finally, my colleagues and I have conducted research on physical fitness in youth and its social and geographical determinants:
+Finally, I have conducted research on physical fitness in youth and its social and geographical determinants:
 
 * [Effect of Cardiorespiratory Fitness on Academic Achievement is Stronger in High-SES Elementary Schools Compared to Low](https://onlinelibrary.wiley.com/doi/10.1111/josh.12678)<br>
 Michael Garber, Kait Stanhope, Monica Shah, Patricia Cheung, Julie Gazmararian<br>
