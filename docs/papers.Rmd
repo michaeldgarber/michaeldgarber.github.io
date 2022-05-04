@@ -33,7 +33,7 @@ __*Current Epidemiology Reports*__. 2019. (full text in [PubMed Central](https:/
 <br>
 
 #### Causal-inference concepts
-At Emory, I was a teaching assistant in a course on methods for causal inference in observational data. Informed by this experience, I have written about how the potential-outcome model from epidemiology can be a useful frame for electoral questions and have commented on the utility of causal-inference tools for environmental epidemiology:
+At Emory, I was a teaching assistant in a course covering methods for causal inference in observational data. Informed by this experience, I have written about how the potential-outcome model from epidemiology can be a useful frame for electoral questions and have commented on the utility of causal-inference tools for environmental epidemiology:
 
 * [A definition of the causal effect of a political party’s nominee on the U.S. general presidential election using counterfactual response types](https://www.sciencedirect.com/science/article/pii/S1047279720301733?via%3Dihub)<br>
 Michael Garber, Lindsay Collin, Dana Flanders
