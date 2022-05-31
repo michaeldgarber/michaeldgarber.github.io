@@ -1,0 +1,10 @@
+---
+title: "Teaching"
+output: html_document
+---
+
+<br> This page links to in-development teaching materials:
+
+-   R and R for GIS
+
+-   Epidemiologic concepts
