@@ -5,6 +5,6 @@ output: html_document
 
 <br> This page links to in-development teaching materials:
 
--   R and R for GIS: <https://michaeldgarber.github.io/teach-r/>
+-   R for public health: managing and visualizing aspatial and spatial data in R: <https://michaeldgarber.github.io/teach-r/>
 
 -   Epidemiologic concepts: link TBD
