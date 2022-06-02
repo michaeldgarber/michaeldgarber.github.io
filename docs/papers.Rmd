@@ -8,7 +8,7 @@ title: "Papers"
 
 My colleagues and I used the generalized synthetic control method to estimate effects of large-scale bicycle infrastructure projects in Atlanta (including the Atlanta BeltLine) on bicycling.
 
--   [Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis](https://journals.lww.com/epidem/Abstract/9900/Have_paved_trails_and_protected_bike_lanes_led_to.15.aspx)<br>Michael Garber, Dana Flanders, Kari Watkins, Felipe Lobelo, Michael Kramer, Lauren McCullough<br> ***Epidemiology***. 2022. <br> <br>
+-   [Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis](https://journals.lww.com/epidem/Abstract/9900/Have_paved_trails_and_protected_bike_lanes_led_to.15.aspx)<br>Michael Garber, Dana Flanders, Kari Watkins, Felipe Lobelo, Michael Kramer, Lauren McCullough<br> ***Epidemiology***. 2022. ([Video abstract](https://cdn-links.lww.com/permalink/ede/b/ede_33_4_2022_05_18_garber_ede21-0304_sdc01.mov))<br> <br>
 
 #### Sampling, selection bias, and mobile-device data
 
