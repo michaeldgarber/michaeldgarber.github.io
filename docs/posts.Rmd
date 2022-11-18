@@ -3,6 +3,8 @@ title: "Posts"
 output: html_document
 ---
 
-April 28, 2022: [Interactive map of infrastructure studied](https://michaeldgarber.github.io/diss/atl-bike-gsynth.html) in *Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis*
+**November 18, 2022**: [Using R to gather bicycle infrastructure data from OpenStreetMap](https://michaeldgarber.github.io/teach-r/osmdata-for-bikes-part-1.html). This material was presented a couple years ago for an R User group.
 
-April 7, 2022: [How to add full-screen control to mapview objects in RMarkdown](mapview-rmd-full-screen.html)
+**April 28, 2022**: [Interactive map of infrastructure studied](https://michaeldgarber.github.io/diss/atl-bike-gsynth.html) in our article, *Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis*
+
+**April 7, 2022**: [How to add full-screen control to mapview objects in RMarkdown](mapview-rmd-full-screen.html)
