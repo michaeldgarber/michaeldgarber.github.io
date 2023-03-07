@@ -2,20 +2,28 @@
 title: "Michael D. Garber"
 ---
 
-Hi, welcome to my website.
+Hi, thanks for visiting my website.
 
-I am a post-doctoral fellow in epidemiology with joint affiliations at UC San Diego and Colorado State University. I conduct research with the ultimate aim of making places safer and more welcoming for biking, walking, and other non-polluting active forms of transportation and recreation. I have contributed to epidemiologic methods by illustrating how aggregated data generated from smartphones can be used in a case-control-study framework ([2021](https://journals.lww.com/epidem/Fulltext/2021/01000/At_risk_measure_Sampling_in_Case_Control_Studies.14.aspx)), with applications for transportation safety. As a PhD student at Emory University Rollins School of Public Health, I was a teaching assistant for a course covering methods for causal inference with observational data and have applied these methods to built-environment research ([2022](https://journals.lww.com/epidem/Abstract/9900/Have_paved_trails_and_protected_bike_lanes_led_to.15.aspx)).
+I am an epidemiologist interested in the effects of urban design and policies on health, health equity, and climate-change resilience. I conduct research with the ultimate aim of making places safer and more welcoming for walking, biking, using a wheelchair, and other forms of active transportation.
+
+My methodological interests include causal-inference methods (including quasi-experimental [approaches](https://journals.lww.com/epidem/Citation/2022/07000/Have_Paved_Trails_and_Protected_Bike_Lanes_Led_to.7.aspx) for policy evaluation) and [case-control studies](https://journals.lww.com/epidem/Fulltext/2021/01000/At_risk_measure_Sampling_in_Case_Control_Studies.14.aspx).
+
+I am currently a post-doctoral researcher with joint affiliations at UC San Diego and Colorado State University. I earned my PhD in Epidemiology from Emory University Rollins School of Public Health in 2020.
 
 <br>
 
 <br>
 
-email: hi\@michaeldgarber.com
+**Elsewhere on the internet**:
 
-[twitter.com/michaeldgarber](https://twitter.com/michaeldgarber){.uri}
+email: [hi\@michaeldgarber.com](mailto:hi@michaeldgarber.com)
 
-[github.com/michaeldgarber](https://github.com/michaeldgarber){.uri}
+GitHub: <https://github.com/michaeldgarber>
 
-[researchgate.net/profile/Michael-Garber](https://www.researchgate.net/profile/Michael-Garber){.uri}
+ResearchGate: <https://www.researchgate.net/profile/Michael-Garber>
 
-[orcid.org/0000-0003-0122-5634](https://orcid.org/0000-0003-0122-5634){.uri}
+ORCID: [orcid.org/0000-0003-0122-5634](https://orcid.org/0000-0003-0122-5634)
+
+Google Scholar [profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate)
+
+Twitter: <https://twitter.com/michaeldgarber>
