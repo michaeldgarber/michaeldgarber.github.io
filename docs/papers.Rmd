@@ -4,11 +4,12 @@ title: "Papers"
 
 <br> This page summarizes a selection of my published research by topic. A complete list of my publications can be found at my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate). I've linked to an open-access full text if available. I would happily send a full text of any pay-walled articles by email ([hi\@michaeldgarber.com](mailto:hi@michaeldgarber.com){.email}). <br> <br>
 
-#### Effect of the built environment on bicycling
+#### Effect of the built environment on bicycling and bicycling safety
 
-My colleagues and I used the generalized synthetic control method to estimate effects of large-scale bicycle infrastructure projects in Atlanta, including the Atlanta BeltLine, on bicycling.
+My colleagues and I used the generalized synthetic control method to estimate effects of large-scale bicycle infrastructure projects in Atlanta, including the Atlanta BeltLine, on bicycling. We also conducted a case-control study to estimate the incidence rate of bicyclist crashes with cars per distance ridden on several types of bike infrastructure.
 
 -   [Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis](https://journals.lww.com/epidem/Abstract/9900/Have_paved_trails_and_protected_bike_lanes_led_to.15.aspx)<br>Michael Garber, Dana Flanders, Kari Watkins, Felipe Lobelo, Michael Kramer, Lauren McCullough<br> ***Epidemiology***. 2022. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9211442/)) ([video abstract](https://www.youtube.com/watch?v=GJ7QzcFeCnk))<br> <br>
+-   [Bicycle infrastructure and the incidence rate of crashes with cars: A case-control study with Strava data in Atlanta](https://www.sciencedirect.com/science/article/pii/S2214140523001056)<br>Michael Garber, Kari Watkins, Michael Kramer, Felipe Lobelo, Steve Mooney, David Ederer, Lauren McCullough<br> ***Journal of Transport & Health***. 2023.<br> <br>
 
 #### Sampling, selection bias, and mobile-device data
 
