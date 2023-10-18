@@ -6,7 +6,7 @@ Hi, thanks for visiting my website.
 
 I am an epidemiologist interested in the effects of urban design and policies on health, health equity, and climate-change mitigation and resilience. I am especially interested in policies that reduce car dependency and improve the safety and appeal of walking, bicycling, using a wheelchair, and other forms of active transportation.
 
-My methodological interests include [causal-inference](https://journals.lww.com/epidem/Fulltext/2019/05000/Is_the_Smog_Lifting___Causal_Inference_in.2.aspx) methods (including quasi-experimental [approaches](https://journals.lww.com/epidem/Citation/2022/07000/Have_Paved_Trails_and_Protected_Bike_Lanes_Led_to.7.aspx) for policy evaluation), [principles](https://www.sciencedirect.com/science/article/abs/pii/S2214140518305590) [for](https://www.sciencedirect.com/science/article/abs/pii/S1047279722000370) valid use of aggregated mobile-device-generated data in epidemiology, and [case-control studies](https://journals.lww.com/epidem/Fulltext/2021/01000/At_risk_measure_Sampling_in_Case_Control_Studies.14.aspx).
+My methodological interests include [causal-inference](https://journals.lww.com/epidem/Fulltext/2019/05000/Is_the_Smog_Lifting___Causal_Inference_in.2.aspx) methods (including group-level [approaches](https://journals.lww.com/epidem/Citation/2022/07000/Have_Paved_Trails_and_Protected_Bike_Lanes_Led_to.7.aspx) for policy evaluation), [principles](https://www.sciencedirect.com/science/article/abs/pii/S2214140518305590) [for](https://www.sciencedirect.com/science/article/abs/pii/S1047279722000370) valid use of aggregated mobile-device-generated data in epidemiology, and [case-control studies](https://journals.lww.com/epidem/Fulltext/2021/01000/At_risk_measure_Sampling_in_Case_Control_Studies.14.aspx).
 
 I am currently a post-doctoral researcher with joint affiliations at UC San Diego and Colorado State University. I earned my PhD in Epidemiology from Emory University Rollins School of Public Health in 2020.
 
@@ -14,9 +14,9 @@ I am currently a post-doctoral researcher with joint affiliations at UC San Dieg
 
 <br>
 
-**Elsewhere on the internet**:
+**Contact and online profiles**:
 
-email: [hi\@michaeldgarber.com](mailto:hi@michaeldgarber.com)
+email: [michael.garber\@colostate.edu](mailto:michael.garber@colostate.edu)
 
 Google Scholar [profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate)
 
