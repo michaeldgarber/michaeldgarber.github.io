@@ -9,7 +9,7 @@ title: "Papers"
 My colleagues and I used the generalized synthetic control method to estimate effects of large-scale bicycle infrastructure projects in Atlanta, including the Atlanta BeltLine, on bicycling. We also conducted a case-control study to estimate the incidence rate of bicyclist crashes with cars per distance ridden on several types of bike infrastructure.
 
 -   [Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis](https://journals.lww.com/epidem/Abstract/9900/Have_paved_trails_and_protected_bike_lanes_led_to.15.aspx)<br>Michael Garber, Dana Flanders, Kari Watkins, Felipe Lobelo, Michael Kramer, Lauren McCullough<br> ***Epidemiology***. 2022. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9211442/)) ([video abstract](https://www.youtube.com/watch?v=GJ7QzcFeCnk))<br> <br>
--   [Bicycle infrastructure and the incidence rate of crashes with cars: A case-control study with Strava data in Atlanta](https://www.sciencedirect.com/science/article/pii/S2214140523001056)<br>Michael Garber, Kari Watkins, Dana Flanders, Michael Kramer, Felipe Lobelo, Steve Mooney, David Ederer, Lauren McCullough<br> ***Journal of Transport & Health***. 2023. ([full-text](https://authors.elsevier.com/a/1hZkV7tR-3MpJW))<br> <br>
+-   [Bicycle infrastructure and the incidence rate of crashes with cars: A case-control study with Strava data in Atlanta](https://www.sciencedirect.com/science/article/pii/S2214140523001056)<br>Michael Garber, Kari Watkins, Dana Flanders, Michael Kramer, Felipe Lobelo, Steve Mooney, David Ederer, Lauren McCullough<br> ***Journal of Transport & Health***. 2023.<br> <br>
 
 #### Sampling, selection bias, and mobile-device data
 
@@ -25,7 +25,7 @@ We have also aimed to better understand how epidemiologic concepts, including ca
 
 #### Causal-inference concepts
 
-At Emory, I was a teaching assistant in a course covering methods for causal inference in observational data. Informed by this experience, I have written about how the potential-outcome model from epidemiology can be a useful frame for electoral questions and have commented on the utility of causal-inference tools for environmental epidemiology:
+Informed by a teaching experience, my colleagues and I have written about how the potential-outcome model from epidemiology can be a useful frame for electoral questions. We have also commented on the utility of causal-inference tools for environmental epidemiology:
 
 -   [A definition of the causal effect of a political party's nominee on the U.S. general presidential election using counterfactual response types](https://www.sciencedirect.com/science/article/pii/S1047279720301733?via%3Dihub)<br> Michael Garber, Lindsay Collin, Dana Flanders <br> ***Annals of Epidemiology***. 2020. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7412752/))
 
