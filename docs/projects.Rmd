@@ -2,5 +2,26 @@
 title: "Projects"
 ---
 
-I use this website to post updates on projects I am working on, for example, https://michaeldgarber.github.io/green-space-denver/index.html
+Some projects with web content:
 
+### Health impacts of bicycle infrastructure in Atlanta, Georgia
+
+Web materials: <https://michaeldgarber.github.io/diss/index.html>
+
+Github repository: <https://github.com/michaeldgarber/diss>
+
+Articles:
+
+-   [Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis](https://journals.lww.com/epidem/abstract/2022/07000/have_paved_trails_and_protected_bike_lanes_led_to.7.aspx). *Epidemiology*. 2022.
+
+-   [Bicycle infrastructure and the incidence rate of crashes with cars: A case-control study with Strava data in Atlanta](https://www.sciencedirect.com/science/article/abs/pii/S2214140523001056). *Journal of Transport & Health*. 2023.
+
+### Health impacts of native plants in Denver, Colorado
+
+Web materials: <https://michaeldgarber.github.io/green-space-denver/index.html>
+
+Github repository: <https://github.com/michaeldgarber/green-space-denver>
+
+Article: [Impact of native-plants policy scenarios on premature mortality in Denver: A quantitative health impact assessment](https://www.sciencedirect.com/science/article/pii/S0160412023003239). *Environment International*. 2023
+
+### 

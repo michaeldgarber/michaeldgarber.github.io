@@ -13,9 +13,6 @@ navbar:
       href: teaching.html
     - text: "Projects"
       href: projects.html
-      menu:
-        - text: "green-space-denver"
-          href: https://michaeldgarber.github.io/green-space-denver/
 
 output:
   html_document:
