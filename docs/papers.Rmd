@@ -6,14 +6,14 @@ title: "Papers"
 
 #### Effect of the built environment on bicycling and bicycling safety
 
-My colleagues and I used the generalized synthetic control method to estimate effects of large-scale bicycle infrastructure projects in Atlanta, including the Atlanta BeltLine, on bicycling. We also conducted a case-control study to estimate the incidence rate of bicyclist crashes with cars per distance ridden on several types of bike infrastructure.
+My colleagues and I used the generalized synthetic control method to estimate effects of large-scale bicycle infrastructure projects in Atlanta, including the Atlanta BeltLine, on bicycling. We also estimated the incidence rate of bicyclist crashes with cars per distance ridden on several types of bike infrastructure using a case-control study design.
 
 -   [Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis](https://journals.lww.com/epidem/Abstract/9900/Have_paved_trails_and_protected_bike_lanes_led_to.15.aspx)<br>Michael Garber, Dana Flanders, Kari Watkins, Felipe Lobelo, Michael Kramer, Lauren McCullough<br> ***Epidemiology***. 2022. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9211442/)) ([video abstract](https://www.youtube.com/watch?v=GJ7QzcFeCnk))<br> <br>
 -   [Bicycle infrastructure and the incidence rate of crashes with cars: A case-control study with Strava data in Atlanta](https://www.sciencedirect.com/science/article/pii/S2214140523001056)<br>Michael Garber, Kari Watkins, Dana Flanders, Michael Kramer, Felipe Lobelo, Steve Mooney, David Ederer, Lauren McCullough<br> ***Journal of Transport & Health***. 2023.<br> <br>
 
 #### Sampling, selection bias, and mobile-device data
 
-We have also aimed to better understand how epidemiologic concepts, including case-control sampling and conditions for no selection bias, can inform the valid use of data generated from mobile devices in research. I am most of proud of [this paper](https://journals.lww.com/epidem/Fulltext/2021/01000/At_risk_measure_Sampling_in_Case_Control_Studies.14.aspx), in which we extend case-control sampling principles to show how aggregated smartphone-generated data can be used to estimate the incidence rate ratio in epidemiologic studies.
+We have also aimed to better understand how epidemiologic concepts, including case-control sampling and conditions for no selection bias, can inform the valid use of data generated from mobile devices in research:
 
 -   [On selection bias in comparison measures of smartphone-generated population mobility: an illustration of no-bias conditions with a commercial data source](https://www.sciencedirect.com/science/article/abs/pii/S1047279722000370)<br>Michael Garber, Katie Labgold, Michael Kramer<br> ***Annals of Epidemiology***. 2022. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9202634/))
 
@@ -35,7 +35,7 @@ Informed by a teaching experience, my colleagues and I have written about how th
 
 #### Physical fitness in children
 
-Finally, I have conducted research on physical fitness in youth and its social and geographical determinants:
+Finally, we have investigated physical fitness in youth and its social and geographical determinants:
 
 -   [Effect of Cardiorespiratory Fitness on Academic Achievement is Stronger in High-SES Elementary Schools Compared to Low](https://onlinelibrary.wiley.com/doi/10.1111/josh.12678)<br> Michael Garber, Kait Stanhope, Monica Shah, Patricia Cheung, Julie Gazmararian<br> ***Journal of School Health***. 2018.
 

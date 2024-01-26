@@ -16,7 +16,7 @@ Related articles:
 
 -   [Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis](https://journals.lww.com/epidem/abstract/2022/07000/have_paved_trails_and_protected_bike_lanes_led_to.7.aspx). *Epidemiology*. 2022.
 
--   [At-risk-measure sampling in case-control studies with aggregated data](https://journals.lww.com/epidem/fulltext/2021/01000/at_risk_measure_sampling_in_case_control_studies.14.aspx). Epidemiology. 2021.
+-   [At-risk-measure sampling in case-control studies with aggregated data](https://journals.lww.com/epidem/fulltext/2021/01000/at_risk_measure_sampling_in_case_control_studies.14.aspx). *Epidemiology*. 2021.
 
 ### Health impacts of native plants in Denver, Colorado
 
