@@ -10,11 +10,13 @@ Web materials: <https://michaeldgarber.github.io/diss/index.html>
 
 Github repository: <https://github.com/michaeldgarber/diss>
 
-Articles:
+Related articles:
+
+-   [Bicycle infrastructure and the incidence rate of crashes with cars: A case-control study with Strava data in Atlanta](https://www.sciencedirect.com/science/article/abs/pii/S2214140523001056). *Journal of Transport & Health*. 2023.
 
 -   [Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis](https://journals.lww.com/epidem/abstract/2022/07000/have_paved_trails_and_protected_bike_lanes_led_to.7.aspx). *Epidemiology*. 2022.
 
--   [Bicycle infrastructure and the incidence rate of crashes with cars: A case-control study with Strava data in Atlanta](https://www.sciencedirect.com/science/article/abs/pii/S2214140523001056). *Journal of Transport & Health*. 2023.
+-   [At-risk-measure sampling in case-control studies with aggregated data](https://journals.lww.com/epidem/fulltext/2021/01000/at_risk_measure_sampling_in_case_control_studies.14.aspx). Epidemiology. 2021.
 
 ### Health impacts of native plants in Denver, Colorado
 
@@ -22,6 +24,6 @@ Web materials: <https://michaeldgarber.github.io/green-space-denver/index.html>
 
 Github repository: <https://github.com/michaeldgarber/green-space-denver>
 
-Article: [Impact of native-plants policy scenarios on premature mortality in Denver: A quantitative health impact assessment](https://www.sciencedirect.com/science/article/pii/S0160412023003239). *Environment International*. 2023
+Related article: [Impact of native-plants policy scenarios on premature mortality in Denver: A quantitative health impact assessment](https://www.sciencedirect.com/science/article/pii/S0160412023003239). *Environment International*. 2023
 
 ### 
