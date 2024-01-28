@@ -18,6 +18,8 @@ Related articles:
 
 -   [At-risk-measure sampling in case-control studies with aggregated data](https://journals.lww.com/epidem/fulltext/2021/01000/at_risk_measure_sampling_in_case_control_studies.14.aspx). *Epidemiology*. 2021.
 
+Funding: [1F31HL143900-01](https://reporter.nih.gov/project-details/9611122)
+
 ### Health impacts of native plants in Denver, Colorado
 
 Web materials: <https://michaeldgarber.github.io/green-space-denver/index.html>
