@@ -2,7 +2,7 @@
 title: "Michael D. Garber"
 ---
 
-I am an epidemiologist interested in the effects of urban design and related policies on health, health equity, and climate-change mitigation and resilience. I am especially interested in policies that reduce car dependency and improve the safety and appeal of walking, bicycling, using a wheelchair, and other forms of active transportation.
+I am an epidemiologist interested in the effects of urban design and related policies on health, health equity, and climate-change mitigation and resilience. I am especially interested in policies that reduce car dependency and improve the safety and appeal of active transportation.
 
 My methodological interests include [causal-inference](https://journals.lww.com/epidem/Fulltext/2019/05000/Is_the_Smog_Lifting___Causal_Inference_in.2.aspx) methods (including group-level [approaches](https://journals.lww.com/epidem/Citation/2022/07000/Have_Paved_Trails_and_Protected_Bike_Lanes_Led_to.7.aspx) for policy evaluation), [principles](https://www.sciencedirect.com/science/article/abs/pii/S2214140518305590) [for](https://www.sciencedirect.com/science/article/abs/pii/S1047279722000370) valid use of aggregated mobile-device-generated data in epidemiology, and [case-control studies](https://journals.lww.com/epidem/Fulltext/2021/01000/At_risk_measure_Sampling_in_Case_Control_Studies.14.aspx).
 
