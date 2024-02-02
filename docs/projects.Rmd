@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 ---
-
 Some projects with web content:
 
 [Health impacts of bicycle infrastructure in Atlanta, Georgia](https://michaeldgarber.github.io/diss/)
