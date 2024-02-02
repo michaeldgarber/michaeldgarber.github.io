@@ -12,7 +12,7 @@ title: "Papers"
 
 ### Causal inference and policy evaluation
 
-[Precision and Weighting of Effects Estimated by the Generalized Synthetic Control and Related Methods: The Case of Medicaid Expansion](https://journals.lww.com/epidem/fulltext/2024/03000/precision_and_weighting_of_effects_estimated_by.17.aspx)<br> Michael Garber <br> ***Epidemiology***. 2024.<br>
+[Precision and Weighting of Effects Estimated by the Generalized Synthetic Control and Related Methods: The Case of Medicaid Expansion](https://journals.lww.com/epidem/fulltext/2024/03000/precision_and_weighting_of_effects_estimated_by.17.aspx)<br> Michael Garber <br> ***Epidemiology***. 2024. ([code and online appendix](https://michaeldgarber.github.io/gsynth-nianogo-et-al/index.html))<br>
 
 [A definition of the causal effect of a political party's nominee on the U.S. general presidential election using counterfactual response types](https://www.sciencedirect.com/science/article/pii/S1047279720301733?via%3Dihub)<br> Michael Garber, Lindsay Collin, Dana Flanders <br> ***Annals of Epidemiology***. 2020. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7412752/))<br>
 
