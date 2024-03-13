@@ -25,5 +25,3 @@ ORCID: [orcid.org/0000-0003-0122-5634](https://orcid.org/0000-0003-0122-5634)
 GitHub: <https://github.com/michaeldgarber>
 
 Linkedin: <https://www.linkedin.com/in/michaeldgarber/>
-
-Twitter: <https://twitter.com/michaeldgarber>

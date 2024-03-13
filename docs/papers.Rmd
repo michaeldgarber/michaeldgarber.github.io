@@ -4,7 +4,7 @@ title: "Papers"
 
 A selection of my publications is below. A complete list can be found at my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate).<br>
 
-### Effects of bicycle infrastructure on bicycling levels and safety using high-resolution data
+### Bicycle infrastructure, bicycling volumes, and safety using high-resolution data
 
 [Bicycle infrastructure and the incidence rate of crashes with cars: A case-control study with Strava data in Atlanta](https://www.sciencedirect.com/science/article/pii/S2214140523001056)<br>Michael Garber, Kari Watkins, Dana Flanders, Michael Kramer, Felipe Lobelo, Steve Mooney, David Ederer, Lauren McCullough<br> ***Journal of Transport & Health***. 2023. ([full text in UC eScholarship](https://escholarship.org/uc/item/3v24n6ch#main))<br>
 
