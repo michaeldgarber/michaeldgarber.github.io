@@ -6,28 +6,34 @@ A selection of my publications is below. A complete list can be found at my [Goo
 
 ### Bicycle infrastructure, bicycling volumes, and safety using high-resolution data
 
-[Bicycle infrastructure and the incidence rate of crashes with cars: A case-control study with Strava data in Atlanta](https://www.sciencedirect.com/science/article/pii/S2214140523001056)<br>Michael Garber, Kari Watkins, Dana Flanders, Michael Kramer, Felipe Lobelo, Steve Mooney, David Ederer, Lauren McCullough<br> ***Journal of Transport & Health***. 2023. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10773466/))<br>
+[Bicycle infrastructure and the incidence rate of crashes with cars: A case-control study with Strava data in Atlanta](https://www.sciencedirect.com/science/article/pii/S2214140523001056)<br>Michael Garber, Kari Watkins, Dana Flanders, Michael Kramer, Felipe Lobelo, Steve Mooney, David Ederer, Lauren McCullough. ***Journal of Transport & Health***. 2023. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10773466/))<br>
 
-[Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis](https://journals.lww.com/epidem/Abstract/9900/Have_paved_trails_and_protected_bike_lanes_led_to.15.aspx)<br>Michael Garber, Dana Flanders, Kari Watkins, Felipe Lobelo, Michael Kramer, Lauren McCullough<br> ***Epidemiology***. 2022. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9211442/)) ([video abstract](https://www.youtube.com/watch?v=GJ7QzcFeCnk))<br> <br>
+[Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis](https://journals.lww.com/epidem/Abstract/9900/Have_paved_trails_and_protected_bike_lanes_led_to.15.aspx)<br>Michael Garber, Dana Flanders, Kari Watkins, Felipe Lobelo, Michael Kramer, Lauren McCullough. ***Epidemiology***. 2022. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9211442/)) ([video abstract](https://www.youtube.com/watch?v=GJ7QzcFeCnk))<br> <br>
 
 ### Causal inference and policy evaluation
 
-[Precision and Weighting of Effects Estimated by the Generalized Synthetic Control and Related Methods: The Case of Medicaid Expansion](https://journals.lww.com/epidem/fulltext/2024/03000/precision_and_weighting_of_effects_estimated_by.17.aspx)<br> Michael Garber <br> ***Epidemiology***. 2024. ([code and online appendix](https://michaeldgarber.github.io/gsynth-nianogo-et-al/index.html))<br>
+[Precision and Weighting of Effects Estimated by the Generalized Synthetic Control and Related Methods: The Case of Medicaid Expansion](https://journals.lww.com/epidem/fulltext/2024/03000/precision_and_weighting_of_effects_estimated_by.17.aspx)<br> Michael Garber. ***Epidemiology***. 2024. ([code and online appendix](#0))<br>
 
-[A definition of the causal effect of a political party's nominee on the U.S. general presidential election using counterfactual response types](https://www.sciencedirect.com/science/article/pii/S1047279720301733?via%3Dihub)<br> Michael Garber, Lindsay Collin, Dana Flanders <br> ***Annals of Epidemiology***. 2020. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7412752/))<br>
+[A definition of the causal effect of a political party's nominee on the U.S. general presidential election using counterfactual response types](https://www.sciencedirect.com/science/article/pii/S1047279720301733?via%3Dihub)<br> Michael Garber, Lindsay Collin, Dana Flanders. ***Annals of Epidemiology***. 2020. ([full text](#0))<br>
 
-[Is the Smog Lifting? Causal Inference in Environmental Epidemiology](https://journals.lww.com/epidem/Fulltext/2019/05000/Is_the_Smog_Lifting___Causal_Inference_in.2.aspx)<br> Dana Flanders, Michael Garber<br> ***Epidemiology***. 2019. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456370/))<br>
+[Is the Smog Lifting? Causal Inference in Environmental Epidemiology](https://journals.lww.com/epidem/Fulltext/2019/05000/Is_the_Smog_Lifting___Causal_Inference_in.2.aspx)<br> Dana Flanders, Michael Garber. ***Epidemiology***. 2019. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456370/))<br>
 
-[The Authors Respond](https://journals.lww.com/epidem/Fulltext/2019/11000/The_Authors_Respond.26.aspx)<br>Dana Flanders, Michael Garber<br> ***Epidemiology***. 2019. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6936609/)) <br> <br>
+[The Authors Respond](#0)<br>Dana Flanders, Michael Garber. ***Epidemiology***. 2019. ([full text](#0)) <br> <br>
+
+### Climate resilience and exposure measurement
+
+[Is home where the heat is? comparing residence-based with mobility-based measures of heat exposure in San Diego, California](https://www.nature.com/articles/s41370-024-00715-5)<br>Michael Garber, Anaïs Teyton, Marta Jankowska, Gabriel Carrasco-Escobar, David Rojas-Rueda, Antony Barja-Ingaruca, Tarik Benmarhnia. ***Journal of Exposure Science & Environmental Epidemiology***. 2024<br>
+
+[Impact of native-plants policy scenarios on premature mortality in Denver: A quantitative health impact assessment](https://www.sciencedirect.com/science/article/pii/S0160412023003239)<br>Michael Garber, Michael Guidi, Jennifer Bousselot, Tarik Benmarhnia, Daniel Dean, David Rojas-Rueda. ***Environment International*****.** 2023<br> <br>
 
 ### Methods and principles for using aggregated mobile-device-generated data in epidemiologic studies
 
-[On selection bias in comparison measures of smartphone-generated population mobility: an illustration of no-bias conditions with a commercial data source](https://www.sciencedirect.com/science/article/abs/pii/S1047279722000370)<br>Michael Garber, Katie Labgold, Michael Kramer<br> ***Annals of Epidemiology***. 2022. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9202634/))<br>
+[On selection bias in comparison measures of smartphone-generated population mobility: an illustration of no-bias conditions with a commercial data source](#0)<br>Michael Garber, Katie Labgold, Michael Kramer. ***Annals of Epidemiology***. 2022. ([full text](#0))<br>
 
-[At-risk-measure sampling in case-control studies with aggregated data](https://journals.lww.com/epidem/Fulltext/2021/01000/At_risk_measure_Sampling_in_Case_Control_Studies.14.aspx)<br> Michael Garber, Lauren McCullough, Steve Mooney, Michael Kramer, Kari Watkins, Felipe Lobelo, Dana Flanders<br> ***Epidemiology***. 2021. (full text above and in [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7707160/)) ([GitHub repo](https://github.com/michaeldgarber/at-risk-measure-sampling)) (Winner of 2022 [Rothman Prize](https://journals.lww.com/epidem/Fulltext/2022/07000/Michael_D__Garber,_Winner_of_the_2022_Rothman.1.aspx))<br>
+[At-risk-measure sampling in case-control studies with aggregated data](#0)<br> Michael Garber, Lauren McCullough, Steve Mooney, Michael Kramer, Kari Watkins, Felipe Lobelo, Dana Flanders. ***Epidemiology***. 2021. (full text above and in [PubMed Central](#0)) ([GitHub repo](#0)) (Winner of 2022 [Rothman Prize](#0))<br>
 
-[Comparing bicyclists who use smartphone apps to record rides with those who do not: Implications for representativeness and selection bias](https://www.sciencedirect.com/science/article/pii/S2214140518305590)<br>Michael Garber, Kari Watkins, Michael Kramer<br> ***Journal of Transport & Health***. 2019. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6959852/))<br>
+[Comparing bicyclists who use smartphone apps to record rides with those who do not: Implications for representativeness and selection bias](#0)<br>Michael Garber, Kari Watkins, Michael Kramer. ***Journal of Transport & Health***. 2019. ([full text](#0))<br>
 
-[Sampling and Sampling Frames in Big Data Epidemiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6662929/)<br> Steve Mooney, Michael Garber<br> ***Current Epidemiology Reports***. 2019. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6662929/)) <br> <br>
+[Sampling and Sampling Frames in Big Data Epidemiology](#0)<br> Steve Mooney, Michael Garber. ***Current Epidemiology Reports***. 2019. ([full text](#0)) <br> <br>
 
 #### 
