@@ -26,7 +26,7 @@ A selection of my publications is below. A complete list can be found at my [Goo
 
 [Impact of native-plants policy scenarios on premature mortality in Denver: A quantitative health impact assessment](https://www.sciencedirect.com/science/article/pii/S0160412023003239)<br>Michael Garber, Michael Guidi, Jennifer Bousselot, Tarik Benmarhnia, Daniel Dean, David Rojas-Rueda. ***Environment International*****.** 2023<br> <br>
 
-### Methods and principles for using aggregated mobile-device-generated data in epidemiologic studies
+### Methods and principles for using mobile-device-generated data in epidemiologic studies
 
 [On selection bias in comparison measures of smartphone-generated population mobility: an illustration of no-bias conditions with a commercial data source](#0)<br>Michael Garber, Katie Labgold, Michael Kramer. ***Annals of Epidemiology***. 2022. ([full text](#0))<br>
 
