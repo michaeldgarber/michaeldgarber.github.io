@@ -6,7 +6,7 @@ I am an epidemiologist interested in the effects of urban design and related pol
 
 My methodological interests include [causal-inference](https://journals.lww.com/epidem/Fulltext/2019/05000/Is_the_Smog_Lifting___Causal_Inference_in.2.aspx) methods (including group-level [approaches](https://journals.lww.com/epidem/fulltext/2024/03000/precision_and_weighting_of_effects_estimated_by.17.aspx) for policy evaluation), [principles](https://www.sciencedirect.com/science/article/abs/pii/S2214140518305590) [for](https://www.sciencedirect.com/science/article/abs/pii/S1047279722000370) valid use of aggregated mobile-device-generated data in epidemiology, and [case-control studies](https://journals.lww.com/epidem/Fulltext/2021/01000/At_risk_measure_Sampling_in_Case_Control_Studies.14.aspx).
 
-I am currently a post-doctoral researcher with joint affiliations at UC San Diego and Colorado State University. I earned my MPH and PhD in Epidemiology from Emory University Rollins School of Public Health. In 2022, I received the [Rothman Epidemiology Prize](https://journals.lww.com/epidem/fulltext/2022/07000/michael_d__garber,_winner_of_the_2022_rothman.1.aspx), an award given annually for the best article published in *Epidemiology* in the preceding year.
+I am currently a post-doctoral researcher with UC San Diego. I earned my MPH and PhD in Epidemiology from Emory University Rollins School of Public Health. In 2022, I received the [Rothman Epidemiology Prize](https://journals.lww.com/epidem/fulltext/2022/07000/michael_d__garber,_winner_of_the_2022_rothman.1.aspx), an award given annually for the best article published in *Epidemiology* in the preceding year.
 
 <br>
 
@@ -14,7 +14,7 @@ I am currently a post-doctoral researcher with joint affiliations at UC San Dieg
 
 **Contact and online profiles**:
 
-email: [michael.garber\@colostate.edu](mailto:michael.garber@colostate.edu)
+email: mdgarber\@ucsd.edu
 
 Google Scholar [profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate)
 
