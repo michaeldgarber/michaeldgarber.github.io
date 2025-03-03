@@ -20,9 +20,13 @@ A selection of my publications is below. A complete list can be found at my [Goo
 
 [The Authors Respond](https://journals.lww.com/epidem/fulltext/2019/11000/the_authors_respond.26.aspx)<br>Dana Flanders, Michael Garber. ***Epidemiology***. 2019.<br> <br>
 
-### Urban climate resilience and exposure measurement
+### Health and climate implications of urban design and policy
 
-[Greening urban areas in line with population density and ecological zone can reduce premature mortality](https://www.nature.com/articles/s43247-024-01803-y).<br> Michael Garber, Tarik Benmarhnia, Weiqi Zhou, Pierpaolo Mudu, David Rojas-Rueda. ***Communications Earth & Environment***. 2024<br>
+[Parking and Public Health](https://link.springer.com/article/10.1007/s40572-024-00465-4)<br> Michael Garber, Tarik Benmarhnia, Jacob Mason, Emily Morales-Zamora David Rojas-Rueda. ***Current Environmental Health Reports***. 2025<br>
+
+[The epidemiologic case for urban health: conceptualizing and measuring the magnitude of challenges and potential benefits](https://f1000research.com/articles/13-950)<br> Michael Garber, Tarik Benmarhnia, Audrey de Nazelle, Mark Nieuwenhuijsen, David Rojas-Rueda. ***F1000 Research***. 2024 (under open peer review)<br>
+
+[Greening urban areas in line with population density and ecological zone can reduce premature mortality](https://www.nature.com/articles/s43247-024-01803-y)<br> Michael Garber, Tarik Benmarhnia, Weiqi Zhou, Pierpaolo Mudu, David Rojas-Rueda. ***Communications Earth & Environment***. 2024<br>
 
 [Is home where the heat is? comparing residence-based with mobility-based measures of heat exposure in San Diego, California](https://www.nature.com/articles/s41370-024-00715-5)<br>Michael Garber, Anaïs Teyton, Marta Jankowska, Gabriel Carrasco-Escobar, David Rojas-Rueda, Antony Barja-Ingaruca, Tarik Benmarhnia. ***Journal of Exposure Science & Environmental Epidemiology***. 2024<br>
 
