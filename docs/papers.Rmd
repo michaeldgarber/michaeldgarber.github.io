@@ -1,5 +1,11 @@
 ---
 title: "Papers"
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      toc_collapsed: true
+    toc_depth: 3
 ---
 
 A selection of my publications is below. A complete list can be found at my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate).<br>
