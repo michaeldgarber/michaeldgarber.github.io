@@ -2,9 +2,13 @@
 title: "Michael D. Garber"
 ---
 
-A social and environmental epidemiologist by training, I study how urban design and related policies affect population health and climate resilience. I am especially interested in policies that reduce car dependency and improve the [safety](https://pmc.ncbi.nlm.nih.gov/articles/PMC10773466/) and [appeal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9211442/) of active transportation.
+As an epidemiologist, I study how places can be designed and managed to support population health and climate resilience. I have a particular interest in policies that may reduce society's inequitable dependency on cars and support the [safety](https://pmc.ncbi.nlm.nih.gov/articles/PMC10773466/) and [appeal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9211442/) of active transportation.
 
-I earned my MPH and PhD in Epidemiology from Emory University Rollins School of Public Health, and I am currently a post-doctoral researcher with UC San Diego. I have authored 25 peer-reviewed articles, including 13 as lead author. In 2022, I received the [Rothman Epidemiology Prize](https://journals.lww.com/epidem/fulltext/2022/07000/michael_d__garber,_winner_of_the_2022_rothman.1.aspx) for our article published in *Epidemiology*.
+I have methodological expertise in policy evaluation, health-impact assessment, geospatial analysis, and the design of case-control studies.
+
+I earned my MPH and PhD in Epidemiology from Emory University Rollins School of Public Health, and I am currently a post-doctoral researcher with UC San Diego. I have authored 25 peer-reviewed journal articles, including 13 as lead author. In 2022, I received the [Rothman Epidemiology Prize](https://journals.lww.com/epidem/fulltext/2022/07000/michael_d__garber,_winner_of_the_2022_rothman.1.aspx) for our article published in *Epidemiology*.
+
+In recent work, my colleagues and I wrote about how epidemiology can continue to advance urban-health understanding and how parking policy can influence population health:
 
 <br>
 
@@ -16,7 +20,7 @@ I earned my MPH and PhD in Epidemiology from Emory University Rollins School of 
 
 <br>
 
-## **Contact and online profiles**
+## **Contact and profiles**
 
 email: mdgarber\@ucsd.edu
 
