@@ -2,7 +2,7 @@
 title: "Michael D. Garber"
 ---
 
-As an epidemiologist, I study how places can be designed and managed to support population health and climate resilience. I have a particular interest in policies that may reduce the inequitable population-health consequences of car dependency and support the [safety](https://pmc.ncbi.nlm.nih.gov/articles/PMC10773466/) and [appeal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9211442/) of active transportation.
+As an epidemiologist, I study how places can be designed and managed to support population health and climate resilience. I have a particular interest in policies that may reduce the inequitable population-health consequences of car-dependent environments and support the [safety](https://pmc.ncbi.nlm.nih.gov/articles/PMC10773466/) and [appeal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9211442/) of active transportation.
 
 I have methodological expertise in policy evaluation, health-impact assessment, geospatial analysis, and the design of case-control studies.
 
