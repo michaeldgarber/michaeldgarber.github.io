@@ -13,6 +13,8 @@ navbar:
       href: teaching.html
     - text: "Projects"
       href: projects.html
+    - text: "Presentations & Media"
+      href: presentations-media.html
 
 output:
   html_document:
