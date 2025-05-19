@@ -1,11 +1,11 @@
 ---
-title: "Presentations and media"
+title: "Presentations  & Media"
 output: html_document
 ---
 
 -   **May 15, 2025**: [Guest on Streets and People podcast](https://getaroundcaboolture.au/s2e16-pnp-michael-garber-links-parking-to-public-health/) hosted by Wendy Nash of Get Around Caboolture. We discussed connections between parking and public health.
 
--   **March 28, 2025**: [Presentation](https://www.youtube.com/watch?v=XrfSsqcEyFU) with Parking Reform Network on parking and public health
+-   **March 28, 2025**: [Presentation with the Parking Reform Network](https://www.youtube.com/watch?v=XrfSsqcEyFU) on parking and public health
 
 -   **September 7, 2023**: [Streetsblog article](https://usa.streetsblog.org/2023/09/07/study-paint-only-bike-lanes-may-increase-crashes) about our [study](https://www.sciencedirect.com/science/article/pii/S2214140523001056) in *Journal of Transport & Health* suggesting conventional paint-only bike lanes may not improve bicyclist safety in Atlanta
 
