@@ -7,6 +7,6 @@ output: html_document
 
 -   **March 28, 2025**: [Presentation with the Parking Reform Network](https://www.youtube.com/watch?v=XrfSsqcEyFU) on parking and public health
 
--   **September 7, 2023**: [Streetsblog article](https://usa.streetsblog.org/2023/09/07/study-paint-only-bike-lanes-may-increase-crashes) by Kea Wilson about our [study](https://www.sciencedirect.com/science/article/pii/S2214140523001056) in *Journal of Transport & Health* suggesting conventional paint-only bike lanes may not improve bicyclist safety in Atlanta
+-   **September 7, 2023**: [Streetsblog article](https://usa.streetsblog.org/2023/09/07/study-paint-only-bike-lanes-may-increase-crashes) by Kea Wilson about our [study](https://www.sciencedirect.com/science/article/pii/S2214140523001056) in *Journal of Transport & Health* suggesting conventional paint-only bike lanes may not improve bicyclist safety in Atlanta, Georgia
 
--   **July 5, 2022**: [Video presentation](https://www.youtube.com/watch?v=GJ7QzcFeCnk) about our [study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9211442/) in *Epidemiology* estimating effects of paved trails and protected bike lanes on bicycling levels in Atlanta
+-   **July 5, 2022**: [Video presentation](https://www.youtube.com/watch?v=GJ7QzcFeCnk) about our [study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9211442/) in *Epidemiology* estimating effects of paved trails and protected bike lanes on bicycling levels in Atlanta, Georgia
