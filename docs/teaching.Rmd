@@ -2,5 +2,5 @@
 title: "Teaching"
 output: html_document
 ---
-R for public health: a short course on managing and visualizing aspatial and spatial data in R: <https://michaeldgarber.github.io/teach-r/>
 
+**R for public health**: a short course on managing and visualizing aspatial and spatial data in R: <https://michaeldgarber.github.io/teach-r/>
