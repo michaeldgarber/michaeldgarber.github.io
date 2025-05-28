@@ -5,8 +5,8 @@ navbar:
     - icon: fa-home
       href: index.html
       text: "MDG"
-    - text: "Papers"
-      href: papers.html
+    - text: "Publications"
+      href: publications.html
     - text: "Posts"
       href: posts.html
     - text: "Teaching"
