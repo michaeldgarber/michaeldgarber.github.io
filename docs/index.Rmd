@@ -10,8 +10,6 @@ As a social and environmental epidemiologist, I study how places can be designed
 
 -   describing how [parking](https://link.springer.com/article/10.1007/s40572-024-00465-4) policy may affect population health and equity.
 
-    <br>
-
 I have methodological expertise in
 
 -   policy evaluation and quasi-experimental methods,
@@ -23,8 +21,6 @@ I have methodological expertise in
 -   the design of case-control studies, and
 
 -   spatial data science using R.
-
-    <br>
 
 I earned my MPH and PhD in Epidemiology from Emory University Rollins School of Public Health, and I am currently a post-doctoral researcher with UC San Diego. I have authored 25 peer-reviewed journal articles, including 13 as lead author. In 2022, I received the [Rothman Epidemiology Prize](https://journals.lww.com/epidem/fulltext/2022/07000/michael_d__garber,_winner_of_the_2022_rothman.1.aspx) for our [article](https://journals.lww.com/epidem/fulltext/2021/01000/at_risk_measure_sampling_in_case_control_studies.14.aspx) published in *Epidemiology*.
 
