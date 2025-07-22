@@ -18,7 +18,7 @@ I have methodological expertise in
 
 -   the valid use of smartphone-generated active-transportation [data](https://pmc.ncbi.nlm.nih.gov/articles/PMC6959852/) in research;
 
--   [case-control studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7707160/), and
+-   [case-control studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7707160/); and
 
 -   spatial data science using R.
 
