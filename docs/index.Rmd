@@ -12,7 +12,7 @@ As a social and environmental epidemiologist, I study how places can be designed
 
 I have methodological expertise in
 
--   policy evaluation and quasi-experimental methods, like the generalized synthetic control [method](https://journals.lww.com/epidem/fulltext/2024/03000/precision_and_weighting_of_effects_estimated_by.17.aspx);
+-   quasi-experimental causal-inference methods, like the [generalized synthetic control](https://journals.lww.com/epidem/fulltext/2024/03000/precision_and_weighting_of_effects_estimated_by.17.aspx);
 
 -   health-impact assessment;
 
@@ -46,10 +46,10 @@ In 2022, I received the [Rothman Epidemiology Prize](https://journals.lww.com/ep
 
 email: mdgarber\@ucsd.edu
 
-Linkedin: <https://www.linkedin.com/in/michaeldgarber/>
+[Linkedin](https://www.linkedin.com/in/michaeldgarber/)
 
-Google Scholar [profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate)
 
-ResearchGate: <https://www.researchgate.net/profile/Michael-Garber>
+[ResearchGate](https://www.researchgate.net/profile/Michael-Garber) 
 
-GitHub: <https://github.com/michaeldgarber>
+[GitHub](https://github.com/michaeldgarber)
