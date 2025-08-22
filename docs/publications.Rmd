@@ -8,7 +8,7 @@ output:
     toc_depth: 3
 ---
 
-A selection of my publications is below. A complete list can be found at my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate).<br>
+A selection of my publications is below. For a complete list, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate).<br>
 
 ### Bicycle infrastructure, bicycling volumes, and safety using high-resolution data
 
