@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-Projects with web content:
-
 -   [Health impacts of bicycle infrastructure in Atlanta, Georgia](https://michaeldgarber.github.io/diss/)
 
 -   [Health impacts of native plants in Denver, Colorado](https://michaeldgarber.github.io/green-space-denver/index.html)
