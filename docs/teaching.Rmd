@@ -19,9 +19,9 @@ library(here)
 library(sf)
 library(tidyverse)
 setwd(here("data-processed"))
-load("tract_ga_wrangle.RData")
-tract_ga_wrangle %>% 
-  dplyr::select(pop, county_fips, geometry) %>% 
-  rename(Population=pop) %>% 
-  mapview(zcol="Population",layer.name="Population")
+load("county_ga_wrangle.RData")
+county_ga_wrangle %>% #data gathered via tidycensus
+  dplyr::select(pop, county_name,geometry) %>% #select a subset of variables
+  rename(Population=pop) %>% #rename the population variable
+  mapview(zcol="Population",layer.name="Population")#make an interactive map
 ```
