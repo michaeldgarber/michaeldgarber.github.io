@@ -1,6 +1,8 @@
 ---
 title: "Teaching"
-output: html_document
+output:
+  html_document:
+    code_folding: hide
 ---
 
 **R for public health: a short course on wrangling and visualizing data in R, including spatial data**
@@ -14,13 +16,17 @@ Many examples transition back and forth between data with and without a spatial 
 For example:
 
 ```{r, echo=TRUE, warning=FALSE, message=FALSE}
+#Load packages
 library(mapview)
 library(here)
 library(sf)
 library(tidyverse)
+
+#Load data. Data were gathered separately via tidycensus
 setwd(here("data-processed"))
 load("county_ga_wrangle.RData")
-county_ga_wrangle %>% #data gathered via tidycensus
+
+county_ga_wrangle %>% 
   dplyr::select(pop, county_name,geometry) %>% #select a subset of variables
   rename(Population=pop) %>% #rename the population variable
   mapview(zcol="Population",layer.name="Population")#make an interactive map
