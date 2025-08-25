@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+-   [Health impacts of bicycle infrastructure in Atlanta, Georgia](https://michaeldgarber.github.io/diss/)
+
+-   [Health impacts of native plants in Denver, Colorado](https://michaeldgarber.github.io/green-space-denver/index.html)
+
+-   [Code and online appendix for "Precision and Weighting of Effects Estimated by the Generalized Synthetic Control and Related Methods: The Case of Medicaid Expansion"](https://michaeldgarber.github.io/gsynth-nianogo-et-al/index.html)
+
+-   [Potential of greenness to prevent premature mortality in 15,917 urban areas considering within-area population density and ecological zone](https://michaeldgarber.github.io/global-ndvi-pop/index.html)

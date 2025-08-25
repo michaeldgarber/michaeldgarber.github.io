@@ -1,0 +1,55 @@
+---
+title: "Michael D. Garber"
+---
+
+As a social and environmental epidemiologist, I study how places can be designed and managed to support population health and climate resilience. I have led research
+
+-   investigating how bike infrastructure, like paved paths and protected bike lanes, affects [bicycling](https://pmc.ncbi.nlm.nih.gov/articles/PMC9211442/) and bicycling [safety](https://pmc.ncbi.nlm.nih.gov/articles/PMC10773466/);
+
+-   estimating health impacts of urban green space [locally](https://www.sciencedirect.com/science/article/pii/S0160412023003239) and [globally](https://www.nature.com/articles/s43247-024-01803-y); and
+
+-   describing how [parking](https://link.springer.com/article/10.1007/s40572-024-00465-4) policy may affect population health and health equity.
+
+I have methodological expertise in
+
+-   quasi-experimental causal-inference methods, like the [generalized synthetic control](https://journals.lww.com/epidem/fulltext/2024/03000/precision_and_weighting_of_effects_estimated_by.17.aspx);
+
+-   health-impact assessment;
+
+-   the valid use of smartphone-generated active-transportation [data](https://pmc.ncbi.nlm.nih.gov/articles/PMC6959852/) in research;
+
+-   [case-control studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7707160/); and
+
+-   spatial data science using R.
+
+I earned my MPH and PhD in Epidemiology from Emory University Rollins School of Public Health, and I am currently a post-doctoral researcher with UC San Diego. I have authored 25 peer-reviewed journal articles, including 13 as lead author.
+
+In 2022, I received the [Rothman Epidemiology Prize](https://journals.lww.com/epidem/fulltext/2022/07000/michael_d__garber,_winner_of_the_2022_rothman.1.aspx) for our [article](https://journals.lww.com/epidem/fulltext/2021/01000/at_risk_measure_sampling_in_case_control_studies.14.aspx) published in *Epidemiology*.
+
+<br>
+
+## **Recent publications**
+
+[Parking and Public Health](https://link.springer.com/article/10.1007/s40572-024-00465-4)<br> Michael Garber, Tarik Benmarhnia, Jacob Mason, Emily Morales-Zamora, David Rojas-Rueda.<br>***Current Environmental Health Reports***. 2025<br>
+
+[The epidemiologic case for urban health: conceptualizing and measuring the magnitude of challenges and potential benefits](https://f1000research.com/articles/13-950)<br> Michael Garber, Tarik Benmarhnia, Audrey de Nazelle, Mark Nieuwenhuijsen, David Rojas-Rueda.<br>***F1000 Research***. 2024<br>
+
+[Greening urban areas in line with population density and ecological zone can reduce premature mortality](https://www.nature.com/articles/s43247-024-01803-y)<br> Michael Garber, Tarik Benmarhnia, Weiqi Zhou, Pierpaolo Mudu, David Rojas-Rueda.<br>***Communications Earth & Environment***. 2024<br>
+
+<br>
+
+## **Contact and profiles**
+
+![](images/Garber-pic-2025.jpg){width="209"}
+
+***Please feel free to reach out.***
+
+email: mdgarber\@ucsd.edu
+
+[Linkedin](https://www.linkedin.com/in/michaeldgarber/)
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate)
+
+[ResearchGate](https://www.researchgate.net/profile/Michael-Garber) 
+
+[GitHub](https://github.com/michaeldgarber)
