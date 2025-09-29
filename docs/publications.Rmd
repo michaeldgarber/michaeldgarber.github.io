@@ -10,11 +10,25 @@ output:
 
 A selection of my publications is below. For a complete list, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate).<br>
 
-### Bicycle infrastructure, bicycling volumes, and safety using high-resolution data
+### Effects of bicycling infrastructure on biking volumes and safety using app-generated data
 
 [Bicycle infrastructure and the incidence rate of crashes with cars: A case-control study with Strava data in Atlanta](https://www.sciencedirect.com/science/article/pii/S2214140523001056)<br>Michael Garber, Kari Watkins, Dana Flanders, Michael Kramer, Felipe Lobelo, Steve Mooney, David Ederer, Lauren McCullough. ***Journal of Transport & Health***. 2023. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10773466/))<br>
 
 [Have paved trails and protected bike lanes led to more bicycling in Atlanta? A generalized synthetic-control analysis](https://journals.lww.com/epidem/Abstract/9900/Have_paved_trails_and_protected_bike_lanes_led_to.15.aspx)<br>Michael Garber, Dana Flanders, Kari Watkins, Felipe Lobelo, Michael Kramer, Lauren McCullough. ***Epidemiology***. 2022. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9211442/)) ([video abstract](https://www.youtube.com/watch?v=GJ7QzcFeCnk))<br> <br>
+
+### Health and climate implications of urban design and policy
+
+[Cool routes: Assessing how green space and paved paths modify heat's effects on urban bicycling](https://www.sciencedirect.com/science/article/pii/S2214140525001793)<br> Michael Garber, David Rojas-Rueda, Paquito Bernard, Tarik Benmarhnia. ***Journal of Transport & Health***. 2025<br>
+
+[Parking and Public Health](https://link.springer.com/article/10.1007/s40572-024-00465-4)<br> Michael Garber, Tarik Benmarhnia, Jacob Mason, Emily Morales-Zamora, David Rojas-Rueda. ***Current Environmental Health Reports***. 2025<br>
+
+[The epidemiologic case for urban health: conceptualizing and measuring the magnitude of challenges and potential benefits](https://f1000research.com/articles/13-950)<br> Michael Garber, Tarik Benmarhnia, Audrey de Nazelle, Mark Nieuwenhuijsen, David Rojas-Rueda. ***F1000 Research***. 2024 <br>
+
+[Greening urban areas in line with population density and ecological zone can reduce premature mortality](https://www.nature.com/articles/s43247-024-01803-y)<br> Michael Garber, Tarik Benmarhnia, Weiqi Zhou, Pierpaolo Mudu, David Rojas-Rueda. ***Communications Earth & Environment***. 2024<br>
+
+[Is home where the heat is? comparing residence-based with mobility-based measures of heat exposure in San Diego, California](https://www.nature.com/articles/s41370-024-00715-5)<br>Michael Garber, Anaïs Teyton, Marta Jankowska, Gabriel Carrasco-Escobar, David Rojas-Rueda, Antony Barja-Ingaruca, Tarik Benmarhnia. ***Journal of Exposure Science & Environmental Epidemiology***. 2024<br>
+
+[Impact of native-plants policy scenarios on premature mortality in Denver: A quantitative health impact assessment](https://www.sciencedirect.com/science/article/pii/S0160412023003239)<br>Michael Garber, Michael Guidi, Jennifer Bousselot, Tarik Benmarhnia, Daniel Dean, David Rojas-Rueda. ***Environment International*****.** 2023<br> <br>
 
 ### Causal inference and policy evaluation
 
@@ -25,18 +39,6 @@ A selection of my publications is below. For a complete list, please see my [Goo
 [Is the Smog Lifting? Causal Inference in Environmental Epidemiology](https://journals.lww.com/epidem/Fulltext/2019/05000/Is_the_Smog_Lifting___Causal_Inference_in.2.aspx)<br> Dana Flanders, Michael Garber. ***Epidemiology***. 2019. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456370/))<br>
 
 [The Authors Respond](https://journals.lww.com/epidem/fulltext/2019/11000/the_authors_respond.26.aspx)<br>Dana Flanders, Michael Garber. ***Epidemiology***. 2019.<br> <br>
-
-### Health and climate implications of urban design and policy
-
-[Parking and Public Health](https://link.springer.com/article/10.1007/s40572-024-00465-4)<br> Michael Garber, Tarik Benmarhnia, Jacob Mason, Emily Morales-Zamora, David Rojas-Rueda. ***Current Environmental Health Reports***. 2025<br>
-
-[The epidemiologic case for urban health: conceptualizing and measuring the magnitude of challenges and potential benefits](https://f1000research.com/articles/13-950)<br> Michael Garber, Tarik Benmarhnia, Audrey de Nazelle, Mark Nieuwenhuijsen, David Rojas-Rueda. ***F1000 Research***. 2024 (under open peer review)<br>
-
-[Greening urban areas in line with population density and ecological zone can reduce premature mortality](https://www.nature.com/articles/s43247-024-01803-y)<br> Michael Garber, Tarik Benmarhnia, Weiqi Zhou, Pierpaolo Mudu, David Rojas-Rueda. ***Communications Earth & Environment***. 2024<br>
-
-[Is home where the heat is? comparing residence-based with mobility-based measures of heat exposure in San Diego, California](https://www.nature.com/articles/s41370-024-00715-5)<br>Michael Garber, Anaïs Teyton, Marta Jankowska, Gabriel Carrasco-Escobar, David Rojas-Rueda, Antony Barja-Ingaruca, Tarik Benmarhnia. ***Journal of Exposure Science & Environmental Epidemiology***. 2024<br>
-
-[Impact of native-plants policy scenarios on premature mortality in Denver: A quantitative health impact assessment](https://www.sciencedirect.com/science/article/pii/S0160412023003239)<br>Michael Garber, Michael Guidi, Jennifer Bousselot, Tarik Benmarhnia, Daniel Dean, David Rojas-Rueda. ***Environment International*****.** 2023<br> <br>
 
 ### Methods and principles for using mobile-device-generated data in epidemiologic studies
 
