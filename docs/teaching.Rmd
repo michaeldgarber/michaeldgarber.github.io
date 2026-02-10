@@ -11,7 +11,7 @@ Course materials: <https://michaeldgarber.github.io/teach-r/>
 
 This short course introduced participants to popular tools in R for manipulating ("wrangling") and visualizing data through public-health-focused examples. The course focused on tools that are a part of and that work well with the tidyverse. Specifically, packages covered include dplyr and sf for manipulating data, and ggplot2, mapview, and tmap for visualizing data.
 
-Many examples transition back and forth between data with and without a spatial component, showing that working with and visualizing spatial data need not require separate specialized geographic information systems (GIS) software.
+Many examples use data both with and without a spatial component, showing that working with and visualizing spatial data need not require separate specialized geographic information systems (GIS) software.
 
 For example:
 
@@ -26,8 +26,9 @@ library(tidyverse)
 setwd(here("data-processed"))
 load("county_ga_wrangle.RData")
 
+#Make an interactive map
 county_ga_wrangle %>% 
-  dplyr::select(pop, county_name,geometry) %>% #select a subset of variables
+  dplyr::select(pop, county_name,geometry) %>% #select a subset of columns
   rename(Population=pop) %>% #rename the population variable
   mapview(zcol="Population",layer.name="Population")#make an interactive map
 ```
