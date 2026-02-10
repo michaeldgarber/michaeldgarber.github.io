@@ -2,11 +2,25 @@
 title: "Michael D. Garber"
 ---
 
+```{=html}
+<img src="images/headshot-square.JPG"
+     alt="Michael D. Garber"
+     style="
+       float: right;
+       width: 160px;
+       height: 160px;
+       object-fit: cover;
+       object-position: 50% 30%;
+       margin: 0 0 12px 18px;
+       border-radius: 10px;
+     ">
+```
+
 As a social and environmental epidemiologist, I study how transportation systems, urban design, and land-use policy shape population health and climate resilience. I have led research examining:
 
--   how bike infrastructure, including paved paths and protected bike lanes, affects bicycling levels and safety;
+-   how bike infrastructure affects bicycling levels and safety,
 
--   how urban design can support active transportation resilience during extreme heat; and
+-   how urban design can support active transportation resilience during extreme heat, and
 
 -   how parking policy and car-dependent land use shape population health and health equity.
 
@@ -14,19 +28,23 @@ My methodological expertise includes:
 
 -   policy evaluation and quasi-experimental causal-inference methods,
 
--   health-impact assessment,
+-   case–control study designs and sampling methods for smartphone-generated active-transportation data,
 
--   the valid use of smartphone- and GPS-generated active-transportation data in population-health research,
-
--   case-control and other epidemiologic study designs, and
+-   health impact assessment,
 
 -   spatial data science and visualization using R.
 
-I earned my MPH and PhD in Epidemiology from Emory University Rollins School of Public Health. I have authored 25+ peer-reviewed journal articles, including 15 as first author. In 2022, I received the Rothman Epidemiology Prize for our article published in *Epidemiology*.
+I earned my MPH and PhD in Epidemiology from Emory University Rollins School of Public Health. I have authored 25+ peer-reviewed journal articles, including 15 as first author. In 2022, I received the Rothman Epidemiology Prize for our article published in *Epidemiology*. <br>
 
-<br>
+::: {style="text-align:center; margin:12px 0 18px 0; font-size:0.95em;"}
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate) · [ResearchGate](https://www.researchgate.net/profile/Michael-Garber) · [GitHub](https://github.com/michaeldgarber) 
+:::
 
-## **Recent publications**
+::: {style="text-align:center; margin:0 0 18px 0; font-size:0.95em;"}
+`mdgarber@ucsd.edu`
+:::
+
+## Selected recent publications
 
 [High-stress paint-only bike lanes in US cities: prevalence in 2024 and patterns of geographical variation over 442 municipalities](https://www.sciencedirect.com/science/article/pii/S2950105926000021)<br> Michael Garber, Reid Passmore, Katie Crist, David Rojas-Rueda, Tarik Benmarhnia. ***Journal of Cycling and Micromobility Research***. 2026<br>
 
@@ -35,17 +53,3 @@ I earned my MPH and PhD in Epidemiology from Emory University Rollins School of 
 [Parking and Public Health](https://link.springer.com/article/10.1007/s40572-024-00465-4)<br> Michael Garber, Tarik Benmarhnia, Jacob Mason, Emily Morales-Zamora, David Rojas-Rueda. ***Current Environmental Health Reports***. 2025<br>
 
 [The epidemiologic case for urban health: conceptualizing and measuring the magnitude of challenges and potential benefits](https://f1000research.com/articles/13-950/v2)<br> Michael Garber, Tarik Benmarhnia, Audrey de Nazelle, Mark Nieuwenhuijsen, David Rojas-Rueda. ***F1000 Research***. 2025<br>
-
-<br>
-
-## **Contact and profiles** 
-
-*Please feel free to reach out (mdgarber\@ucsd.edu).*
-
-![](images/IMG_1147%20Copy%20Copy.JPG){width="345"}
-
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate)
-
-[ResearchGate](https://www.researchgate.net/profile/Michael-Garber)
-
-[GitHub](https://github.com/michaeldgarber) 
