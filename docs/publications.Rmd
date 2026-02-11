@@ -10,7 +10,9 @@ output:
 
 A selection of my publications is below. For a complete list, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate).<br>
 
-### Effects of bicycling infrastructure on biking volumes and safety using app-generated data
+### Bike infrastructure measurement and impacts on bicycling and safety
+
+[High-stress paint-only bike lanes in US cities: prevalence in 2024 and patterns of geographical variation over 442 municipalities](https://www.sciencedirect.com/science/article/pii/S2950105926000021)<br> Michael Garber, Reid Passmore, Katie Crist, David Rojas-Rueda, Tarik Benmarhnia. ***Journal of Cycling and Micromobility Research***. 2026<br>
 
 [Bicycle infrastructure and the incidence rate of crashes with cars: A case-control study with Strava data in Atlanta](https://www.sciencedirect.com/science/article/pii/S2214140523001056)<br>Michael Garber, Kari Watkins, Dana Flanders, Michael Kramer, Felipe Lobelo, Steve Mooney, David Ederer, Lauren McCullough. ***Journal of Transport & Health***. 2023. ([full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10773466/))<br>
 
