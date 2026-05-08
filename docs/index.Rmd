@@ -36,12 +36,14 @@ My methodological expertise includes:
 
 I earned my MPH and PhD in Epidemiology from Emory University Rollins School of Public Health. I have authored 25+ peer-reviewed journal articles, including 15+ as first author. In 2022, I received the Rothman Epidemiology Prize for an article published in *Epidemiology*. <br>
 
+I also provide consulting support through [Outcome-Wide Analysis](outcome-wide-analysis.html), focused on policy evaluation, causal inference, spatial data, and public-health framing.
+
 ::: {style="text-align:center; margin:12px 0 18px 0; font-size:0.95em;"}
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate) · [ResearchGate](https://www.researchgate.net/profile/Michael-Garber) · [GitHub](https://github.com/michaeldgarber) 
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=r-MsgFsAAAAJ&view_op=list_works&sortby=pubdate) · [ResearchGate](https://www.researchgate.net/profile/Michael-Garber) · [GitHub](https://github.com/michaeldgarber)
 :::
 
 ::: {style="text-align:center; margin:0 0 18px 0; font-size:0.95em;"}
-`mdgarber@ucsd.edu`
+`michael@outcomewide.com`
 :::
 
 ## Selected recent publications
