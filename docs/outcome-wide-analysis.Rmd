@@ -34,6 +34,5 @@ To discuss a possible project, please email: `michael@outcomewide.com`
 
 
 ## On the name
-The name *Outcome-Wide Analysis* is inspired by Tyler VanderWeele’s 2017 article "Outcome-wide Epidemiology,” which argues for studying multiple outcomes togeher rather than one at a time. This thinking informs my approach to studying upstream determinants of population health, including transportation, environmental, and land-use decisions that can affect health, climate, equity, mobility, and quality of life through interconnected pathways.
-
+The name *Outcome-Wide Analysis* is a nod to Tyler VanderWeele’s 2017 article “Outcome-wide Epidemiology.” This outcome-wide perspective informs how I study upstream determinants of population health, including how transportation, environmental, and land-use decisions can shape health, climate, equity, mobility, and quality of life.
 
