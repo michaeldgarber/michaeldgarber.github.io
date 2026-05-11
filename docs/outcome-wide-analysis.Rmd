@@ -15,12 +15,12 @@ title: "Outcome-Wide Analysis"
 
 Outcome-Wide Analysis provides consulting support for researchers and public agencies working at the intersection of policy, environment, transportation, and population health.
 
-I help teams develop rigorous, policy-relevant studies, particularly where causal inference, spatial data, and public-health concepts intersect.
+The work focuses on rigorous, policy-relevant analytic strategy, particularly when causal inference, spatial data, and public-health concepts intersect.
 
 ## Areas of expertise
 
-* Quasi-experimental methods for policy evaluation, including difference-in-differences, generalized synthetic control, and related approaches
-* Epidemiologic study design and analytic strategy, including innovative case-control designs for transportation-safety and place-based research
+* Epidemiologic and quasi-experimental methods for policy evaluation and place-based research, including case-control designs, generalized synthetic control, health impact assessment, and related approaches
+* Analytic strategy under uncertainty, including clarifying study questions, weighing imperfect design options, and making defensible methodological decisions when no single approach is obvious
 * Framing transportation and environmental questions within population-health and public-health frameworks
 * Integration of complex datasets, including spatial, mobility, environmental, and administrative data sources
 * Scientific writing support for grants and manuscripts, particularly methods and conceptual framing sections
@@ -33,4 +33,4 @@ Michael Garber, PhD, MPH is an epidemiologist whose work focuses on how transpor
 To discuss a possible project, please email: `michael@outcomewide.com`
 
 ## On the name
-The name *Outcome-Wide Analysis* is a nod to Tyler VanderWeele’s 2017 article “Outcome-wide Epidemiology.” I use an outcome-wide perspective to ask how upstream decisions, especially in transportation, environment, and land use, shape population health, climate resilience, and equity.
+The name Outcome-Wide Analysis is a nod to Tyler VanderWeele’s 2017 article “Outcome-wide Epidemiology,” which has inspired my approach to studying how upstream transportation, environmental, and land-use decisions shape population health, climate resilience, and equity.
