@@ -22,8 +22,8 @@ The work focuses on rigorous, policy-relevant analytic strategy, particularly wh
 * Epidemiologic and quasi-experimental methods for policy evaluation and place-based research, including case-control designs, generalized synthetic control, health impact assessment, and related approaches
 * Analytic strategy under uncertainty, including clarifying study questions, weighing imperfect design options, and making defensible methodological decisions when no single approach is obvious
 * Framing transportation and land-use questions within population-health and public-health frameworks
-* Integration of complex datasets, including spatial, mobility, environmental, and administrative data sources
-* Scientific writing support for grants and manuscripts, particularly methods and conceptual framing sections
+* Integration and harmonization of datasets across spatial, mobility, environmental, and administrative domains
+* Scientific writing support for grants and manuscripts, especially sections covering methods and conceptual framing
 
 ## Background
 
