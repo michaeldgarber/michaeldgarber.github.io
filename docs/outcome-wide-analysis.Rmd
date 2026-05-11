@@ -13,7 +13,7 @@ title: "Outcome-Wide Analysis"
      ">
 ```
 
-Outcome-Wide Analysis provides consulting support for researchers and public agencies working at the intersection of policy, environment, transportation, and population health.
+Outcome-Wide Analysis provides consulting support for researchers and public agencies working at the intersection of transportation, land use, and population health.
 
 The work focuses on rigorous, policy-relevant analytic strategy, particularly when causal inference, spatial data, and public-health concepts intersect.
 
@@ -21,7 +21,7 @@ The work focuses on rigorous, policy-relevant analytic strategy, particularly wh
 
 * Epidemiologic and quasi-experimental methods for policy evaluation and place-based research, including case-control designs, generalized synthetic control, health impact assessment, and related approaches
 * Analytic strategy under uncertainty, including clarifying study questions, weighing imperfect design options, and making defensible methodological decisions when no single approach is obvious
-* Framing transportation and environmental questions within population-health and public-health frameworks
+* Framing transportation and land-use questions within population-health and public-health frameworks
 * Integration of complex datasets, including spatial, mobility, environmental, and administrative data sources
 * Scientific writing support for grants and manuscripts, particularly methods and conceptual framing sections
 
