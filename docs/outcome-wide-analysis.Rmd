@@ -33,4 +33,4 @@ Michael Garber, PhD, MPH is an epidemiologist whose work focuses on how transpor
 To discuss a possible project, please email: `michael@outcomewide.com`
 
 ## On the name
-The name *Outcome-Wide Analysis* is a nod to Tyler VanderWeele’s 2017 article “Outcome-wide Epidemiology,” which has informed my approach to studying how upstream transportation, environmental, and land-use decisions shape multiple outcomes across population health and climate resilience.
+The name *Outcome-Wide Analysis* is a nod to Tyler VanderWeele’s 2017 article “Outcome-wide Epidemiology,” which has informed my approach to studying how upstream transportation and land-use decisions shape multiple outcomes across population health and climate resilience.
