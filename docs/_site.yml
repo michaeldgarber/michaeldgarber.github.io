@@ -12,8 +12,6 @@ navbar:
       href: teaching.html
     - text: "Presentations & Media"
       href: presentations-media.html
-    - text: "Consulting"
-      href: outcome-wide-analysis.html
 
 output:
   html_document:
